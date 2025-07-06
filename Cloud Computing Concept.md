@@ -1,4 +1,4 @@
-Cloud computing concepts
+# Cloud computing concepts
 
 I worked extensively with core AWS services to develop and deploy cloud-based solutions. 
 I launched and configured EC2 instances for compute workloads, hosted static websites using Amazon S3 with proper permissions and lifecycle settings, 
