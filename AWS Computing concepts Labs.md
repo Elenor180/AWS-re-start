@@ -1,5 +1,5 @@
 # Working with AWS Lambda
-### Utilization EC2, lambda and MySQL
+### Utilization of EC2, lambda and MySQL
 
 In this lab, I deployed and configured an AWS Lambda based serverless computing solution. The Lambda function generates a sales analysis report by pulling data from a database and emailing the results daily. The database connection information is stored in Parameter Store, a capability of AWS Systems Manager. The database itself runs on an Amazon Elastic Compute Cloud (Amazon EC2) Linux, Apache, MySQL, and PHP (LAMP) instance
 
