@@ -65,4 +65,7 @@ The Lambda function code is imported and displays in the Code source panel
 ![image](https://github.com/user-attachments/assets/bc0c5e5a-1fed-4c7d-b4c4-7455f7f616d4)
 
 
+Successfully launched Lambda function
+
+
 
