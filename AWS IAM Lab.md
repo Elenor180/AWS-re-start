@@ -31,3 +31,20 @@ The various password options that I selected have now made the passwords that th
 
 <img width="637" height="407" alt="image" src="https://github.com/user-attachments/assets/edb141d1-a16f-48b6-987a-cfc7b6d325b8" />
 
+
+Created 3 User groups with each group having their own users
+
+<img width="661" height="376" alt="image" src="https://github.com/user-attachments/assets/7fa435c0-f6cf-4bff-b19a-34b5d498f7ef" />
+
+
+## Summary
+
+Created and applied an IAM password policy
+Explored pre-created IAM users and user groups
+Inspected IAM policies as applied to the pre-created user groups
+Added users to user groups with specific capabilities active
+Located and used the IAM sign-in URL
+Experimented with the effects of policies on service access
+
+
+
