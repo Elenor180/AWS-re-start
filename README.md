@@ -20,7 +20,7 @@ Welcome to my AWS re/Start Cloud Practitioner repository! This repository contai
 
 Below is a breakdown of the folders and files you'll find in this repository:
 
-### `/Week_X/` (e.g., `Week_1`, `Week_2`, etc.)
+###  Security, Compute, Networking, Database
 Each week folder contains:
 - 📓 **Lecture Notes** – Summarized concepts, key definitions, diagrams, and examples.
 - 🧪 **Lab Exercises** – Guided lab exercises done via AWS console, Cloud9, or CLI.
