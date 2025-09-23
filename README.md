@@ -88,8 +88,6 @@ Materials for soft skill development:
 | Budget Alerts | Set up CloudWatch alarms and budget notifications |
 | Lambda Function | Trigger Lambda from API Gateway with basic Python logic |
 
-![aws-re-start-graduate.png](https://github.com/user-attachments/assets/2819dd20-0ed8-4add-9c44-85870321d7c0)
-
 ---
 
 ## 🎓 Certification Goal
